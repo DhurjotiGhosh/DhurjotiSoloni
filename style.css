@@ -67,7 +67,7 @@ a.home,a:hover{
 }
 @media screen and (max-width: 770px){
     label.logo{
-        font-size: 30px;
+        font-size: 18px;
         padding-left: 50px;
         padding: 22px;
     }
